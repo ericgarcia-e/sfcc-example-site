@@ -1,7 +1,7 @@
 {
-  "username": "oscar@acadaca.com",
-  "password": "T4c0s4lp4st0r",
-  "hostname": "development-direct-godivauk.demandware.net",
+  "username": "**********",
+  "password": "**********",
+  "hostname": "*****************",
   "cartridge": ["app_custom_example", "app_storefront_base", "modules"],
   "code-version": "este_sijala"
 }
